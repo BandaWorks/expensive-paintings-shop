@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "type": "painting",
+      "paintingName": "Рождение Венеры",
+      "authorFullName": "Сандро Боттичелли",
+      "status": "available",
+      "price": {
+        "value": 2000000,
+        "currencyCode": "USD",
+      },
+      "discount": 0.5,
+    },
+    {
+      "type": "painting",
+      "paintingName": "Тайная вечеря",
+      "authorFullName": "Леонардо да Винчи", 
+      "status": "available",
+      "price": {
+        "value": 3000000,
+        "currencyCode": "USD",
+      },
+      "discount": null,
+    },
+    {
+      "type": "painting",
+      "paintingName": "Сотворение Адама",
+      "authorFullName": "Микеланджело Буонарроти",
+      "status": "available",
+      "price": {
+        "value": 5000000,
+        "currencyCode": "USD",
+      },
+      "discount": null
+    },
+    {
+      "type": "painting",
+      "paintingName": "Урок анатомии",
+      "authorFullName": "Рембрандт ван Рейн", 
+      "status": "sold",
+      "price": {
+        "value": 4000000,
+        "currencyCode": "USD",
+      },
+      "discount": 0.25
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
