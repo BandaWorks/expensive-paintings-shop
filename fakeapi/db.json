@@ -7,20 +7,20 @@
       "status": "available",
       "price": {
         "value": 2000000,
-        "currencyCode": "USD",
+        "currencyCode": "USD"
       },
-      "discount": 0.5,
+      "discount": 0.5
     },
     {
       "type": "painting",
       "paintingName": "Тайная вечеря",
-      "authorFullName": "Леонардо да Винчи", 
+      "authorFullName": "Леонардо да Винчи",
       "status": "available",
       "price": {
         "value": 3000000,
-        "currencyCode": "USD",
+        "currencyCode": "USD"
       },
-      "discount": null,
+      "discount": null
     },
     {
       "type": "painting",
@@ -29,18 +29,18 @@
       "status": "available",
       "price": {
         "value": 5000000,
-        "currencyCode": "USD",
+        "currencyCode": "USD"
       },
       "discount": null
     },
     {
       "type": "painting",
       "paintingName": "Урок анатомии",
-      "authorFullName": "Рембрандт ван Рейн", 
+      "authorFullName": "Рембрандт ван Рейн",
       "status": "sold",
       "price": {
         "value": 4000000,
-        "currencyCode": "USD",
+        "currencyCode": "USD"
       },
       "discount": 0.25
     }
